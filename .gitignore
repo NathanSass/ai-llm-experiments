@@ -2,3 +2,7 @@
 data/*
 notebooks/*
 .env
+.chainlit/
+__pycache__/
+cache/
+vector_store/
