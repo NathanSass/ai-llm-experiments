@@ -1,5 +1,7 @@
 # Setup AI/LLM for Devs experiments locally
 
+chainlit run app.py -w
+
 This repository contains the necessary setup instructions and environment configurations to run AI/LLM experiments locally.
 
 ## Setup

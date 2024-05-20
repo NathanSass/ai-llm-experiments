@@ -1,8 +1,11 @@
 .DS_Store
 data/*
-notebooks/*
+notebooks/*/.csv
+notebooks/__pycache__/
 .env
 .chainlit/
 __pycache__/
 cache/
 vector_store/
+*/__pycache__
+*.csv
